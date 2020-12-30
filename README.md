@@ -1,29 +1,9 @@
-# throwaway-vue
+missing snippets
 
-## Project setup
-```
-yarn install
-```
+workflows/build-pages/
+http://localhost:8000/docs/vue/workflows/build-pages-with-storybook#mocking-providers (apollo)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+workflows
+http://localhost:8000/docs/vue/workflows/stories-for-multiple-components
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+http://localhost:8000/docs/vue/workflows/stories-for-multiple-components#using-children-as-an-arg
